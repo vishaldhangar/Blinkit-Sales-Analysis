@@ -26,6 +26,7 @@ The dashboard tracks the following Key Performance Indicators (KPIs):
 ✔ Average Rating – The average customer rating for all sold items.
 
 ##  Chart & Visualization Requirements
+<br>
 1️⃣ Total Sales by Fat Content (Donut Chart)
 <br>
 Objective: Analyze the impact of fat content on total sales.
