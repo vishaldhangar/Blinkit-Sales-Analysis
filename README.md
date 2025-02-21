@@ -26,7 +26,7 @@ The dashboard tracks the following Key Performance Indicators (KPIs):
 ✔ Average Rating – The average customer rating for all sold items.
 
 ##  Chart & Visualization Requirements
-<br>
+
 1️⃣ Total Sales by Fat Content (Donut Chart)
 <br>
 Objective: Analyze the impact of fat content on total sales.
@@ -69,5 +69,8 @@ Objective: Assess the geographic distribution of sales across different location
 Objective: Provide a comprehensive view of all key metrics (Total Sales, Average Sales, Number of Items, Average Rating) broken down by different outlet types.
 <br>
 📌 Additional Insights: Helps analyze how different types of outlets contribute to overall business growth.
+
+## Dashboard
+![D3](https://github.com/user-attachments/assets/b9619ace-e7fa-472d-83fc-be36ca95af2a)
 
 
